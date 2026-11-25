@@ -18,3 +18,24 @@ https://youtu.be/IqAvxpD6HIA<br>
 增加SceneChanger  把他public 萬用scripts 用來切換scene用<br>
 增加GAME START scene 、關卡選擇scene + 關卡選擇BUTTON<br>
 即時更新 UI 分數 + 倒數時間<br>
+
+
+
+
+
+
+
+為什麼這樣設計 <br>
+讓節奏一路變快、蘋果和炸彈變密、掉得更快，手腳要跟著快，不能慢慢等著接，提高操作刺激感。<br>
+關卡之間做階梯銜接，不會突然斷掉，第一關快結束的速度跟炸彈比例，剛好接上第二關剛開始的感覺，第二關結束也剛好接上第三關開頭，玩起來比較順。<br>
+最後 10 秒做成 高風險、高報酬的玩法，一但貪刀就會輸，炸彈比例拉高且碰到直接歸零，但蘋果加分提高到 +200 / +300 / +500，剩最後幾秒如果分數還差一點，玩家就得決定要不要冒險衝高分蘋果，還是穩穩閃炸彈保住分數，玩起來會緊張很多。<br>
+
+
+所使用到的素材︰<br>
+APPLE: https://sketchfab.com/3d-models/low-poly-apple-7656b9ae0d9542e4b28b817b0e7a2da4#download <br>
+BOMB: https://sketchfab.com/3d-models/bomb-model-low-poly-8a77b3e7e1da4fa089ed06480885359a#download <br>
+BUCKET https://sketchfab.com/3d-models/low-poly-bucket-739f1a6be838419993fbc79f79dda2ff#download<br>
+炸彈音效: https://pixabay.com/sound-effects/film-special<br>
+蘋果音效: https://pixabay.com/sound-effects/search/game/?pagi=2 <br>
+
+關卡選擇BUTTON 及GAMESTART +BANNER 皆為AI 生成圖片<br>
